@@ -1,0 +1,17 @@
+2022-12-08 10:11:24.734 [main] INFO  bt_tuan03.test_avasport - start
+2022-12-08 10:11:34.542 [main] INFO  bt_tuan03.test_avasport - Mở trang: Giày dép, Quần áo, Phụ kiện thể thao chính hãng | AVASport.com
+2022-12-08 10:11:34.542 [main] INFO  bt_tuan03.test_avasport - Tìm phần khung search
+2022-12-08 10:11:34.573 [main] INFO  bt_tuan03.test_avasport - Click vào khung search
+2022-12-08 10:11:36.675 [main] INFO  bt_tuan03.test_avasport - Nhập từ khoá tìm kiếm: áo
+2022-12-08 10:11:39.096 [main] INFO  bt_tuan03.test_avasport - Click sản phẩm
+2022-12-08 10:11:41.183 [main] INFO  bt_tuan03.test_avasport - Thêm sp vào giỏ hàng
+2022-12-08 10:11:46.313 [main] INFO  bt_tuan03.test_avasport - Xem giỏ hàng
+2022-12-08 10:11:46.332 [main] INFO  bt_tuan03.test_avasport - Chọn giới tính
+2022-12-08 10:11:46.392 [main] INFO  bt_tuan03.test_avasport - Nhập họ tên
+2022-12-08 10:11:46.996 [main] INFO  bt_tuan03.test_avasport - Nhập sdt
+2022-12-08 10:11:49.634 [main] INFO  bt_tuan03.test_avasport - Chọn tỉnh/thành phố
+2022-12-08 10:11:53.752 [main] INFO  bt_tuan03.test_avasport - Chọn quận/huyện
+2022-12-08 10:11:55.899 [main] INFO  bt_tuan03.test_avasport - Chọn phường/xã
+2022-12-08 10:11:56.042 [main] INFO  bt_tuan03.test_avasport - Nhập số nhà, tên đường
+2022-12-08 10:11:59.171 [main] INFO  bt_tuan03.test_avasport - Đặt hàng
+2022-12-08 10:12:01.956 [main] INFO  bt_tuan03.test_avasport - End
